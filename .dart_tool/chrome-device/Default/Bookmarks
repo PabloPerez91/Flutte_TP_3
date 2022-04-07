@@ -1,0 +1,62 @@
+{
+   "checksum": "bd960be15c073d9c9ff7de45e7d6ebad",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13277309939337954",
+            "guid": "f71be98c-f775-4a5a-9b23-38d533c30ee1",
+            "id": "5",
+            "name": "Portail",
+            "type": "url",
+            "url": "https://webapps.iut-orsay.fr/portail_iut/public/"
+         }, {
+            "date_added": "13277371564279710",
+            "guid": "79dc9f07-02ac-41de-a61c-0be0f91f1573",
+            "id": "6",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13277371564280140",
+            "guid": "20683b42-9161-4b33-947a-e577997fc1a0",
+            "id": "7",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13277371564280572",
+            "guid": "f10a7198-0d59-443a-a673-6b43cbc31019",
+            "id": "8",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         } ],
+         "date_added": "13293556990136588",
+         "date_modified": "13277371564280572",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barre de favoris",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13293556990136589",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Autres favoris",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13293556990136594",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoris sur mobile",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CioKCgiIgQISBDE3NjASACABKhhLWEhOMzVNTnN5RmhaNEtqR3BQQUtnPT0SqgEICBKlAQocem5rcERyZU5FMFV3TlB5V0llSjhhcU1IdURzPRIqMzI5MDRfZjEwYTcxOTgtMGQ1OS00NDNhLWE2NzMtNmI0M2NiYzMxMDE5GAAgAigCMOANOPixtoLDL0CmtJ6o/y9KHHNQR3Y1RWcxRlR4V0Fzd0NQRlV5UmpVMmtCaz1aHyId7HFmZXhtNUdoRUJFMjFWcTl3VThPQlo5ZkRQVT1lpPvomBKqAQgHEqUBChxpczRZRVpubVN3VEFjWVN5elFMTTlHWTdKRm89EiozMjkwNF8yMDY4M2I0Mi05MTYxLTRiMzMtOTQ3YS1lNTc3OTk3ZmMxYTAYACACKAIw3w04+LG2gsMvQKW0nqj/L0ocWFg4VTVONGVBMmRpdUxIeFhJME14VllUYU9vPVofIh3YTlFTNTk2QTNMMnBjRHlITGNjRDFkY3U1MXA0PWWsEmICEmgIARJkChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EhIzMjkwNF9ib29rbWFya19iYXIYACAAKAAw2Q04AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKqAQgGEqUBChwxU3JXUjFzbW9YMFMyWjBxQkxTRkVzU1lwMWc9EiozMjkwNF83OWRjOWYwNy0wMmFjLTQxZGUtYTYxYy0wYmUwZjkxZjE1NzMYACACKAIw3g04+LG2gsMvQKW0nqj/L0ocVkVWSHh6UEx1RTA2OHBHT3J5MW9IRnlTOWFjPVofIh2xNkpjLzh6bW9IT3pvSmlYNTI4bnBNTFY3SnFzPWV7p0BxEqkBCAUSpAEKHHo2Y2g1NUlhTXZUcHZ2b3A0aFR0ZHpMT3FuND0SKjMyOTA0X2Y3MWJlOThjLWY3NzUtNGE1YS05YjIzLTM4ZDUzM2MzMGVlMRgAIAIoAjDdDTiKjYXlwi9ApbSeqP8vShxXUkNKRWJ5ZGhqOVhGb25OSk1Eb1Vjdy94MTA9Wh4iHGMyS0t3SSsyQXdwSGthM2lDYXB2eGFPZlpSUT1lGejPZhJrCAISZwocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIVMzI5MDRfb3RoZXJfYm9va21hcmtzGAAgACgAMNoNOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASbAgDEmgKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SFjMyOTA0X3N5bmNlZF9ib29rbWFya3MYACAAKAAw2w04AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADABOAA=",
+   "version": 1
+}
