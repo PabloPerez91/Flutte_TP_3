@@ -90,7 +90,7 @@ class _Offer_keptState extends State<Offer_kept> {
                                     style: const TextStyle(color: Colors.white,fontSize: 18,letterSpacing: 2)
                                 ),
                               ),
-                              const SizedBox(height: 15,),
+                              const SizedBox(height: 10,),
                               Container(
                                 padding: const EdgeInsets.all(25.0),
 
@@ -110,7 +110,7 @@ class _Offer_keptState extends State<Offer_kept> {
                                     style: const TextStyle(color: Colors.white,fontSize: 18,letterSpacing: 2)
                                 ),
                               ),
-                              const SizedBox(height: 15,),
+                              const SizedBox(height: 10,),
                               Container(
                                 padding: const EdgeInsets.all(25.0),
 
@@ -130,7 +130,7 @@ class _Offer_keptState extends State<Offer_kept> {
                                     style: const TextStyle(color: Colors.white,fontSize: 18,letterSpacing: 2)
                                 ),
                               ),
-                              const SizedBox(height: 15,),
+                              const SizedBox(height: 10,),
                               Container(
                                 padding: const EdgeInsets.all(25.0),
 
@@ -150,7 +150,7 @@ class _Offer_keptState extends State<Offer_kept> {
                                     style: const TextStyle(color: Colors.white,fontSize: 18,letterSpacing: 2)
                                 ),
                               ),
-                              const SizedBox(height: 15,),
+                              const SizedBox(height: 10,),
                               Container(
                                 padding: const EdgeInsets.all(25.0),
 
